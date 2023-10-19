@@ -1,0 +1,7 @@
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/demo.dir
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/list_install_components.dir
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/install.dir
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/install/local.dir
+/home/vboxuser/Documents/C_Workspace/CmakePro1/cpp/build/CMakeFiles/install/strip.dir
